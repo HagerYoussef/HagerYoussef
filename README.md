@@ -16,7 +16,6 @@
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
-<a href="https://twitter.com/_hager_youssef_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m7md_sh3banx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hager-youssef-535962231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-shaban" height="30" width="40" /></a>
 </p>
 
