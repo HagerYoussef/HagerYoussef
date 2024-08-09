@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hageryoussef383@gmail.com**
 
-- 📄 Look at my CV [**here**]()
+- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1928t0ox-rGVIAGDDW8bB9dwC_ANSfBTS/view?usp=drivesdk)
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
