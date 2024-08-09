@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Advanced topics in FLutter**
+- 🌱 I’m currently learning **Advanced topics in FLutter and Android**
 
 - 💬 Ask me about **Mobile Development**
 
-- 📫 How to reach me **hageryossef5@gmail.com**
+- 📫 How to reach me **hageryoussef383@gmail.com**
 
 - 📄 Look at my CV [**here**]()
 
