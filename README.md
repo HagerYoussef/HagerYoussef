@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Mobile Development**
 
-- 📫 How to reach me **hageryoussef383@gmail.com**
+- 📫 How to reach me **hager.mohammed.work@gmail.com**
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1928t0ox-rGVIAGDDW8bB9dwC_ANSfBTS/view?usp=drivesdk)
+- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1I98zckZSlQfdst57nei69bMYLk49NChS/view?usp=drivesdk)
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
